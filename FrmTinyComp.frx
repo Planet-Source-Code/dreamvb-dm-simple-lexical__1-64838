@@ -1,0 +1,13 @@
+îSUB TEST()
+Dim $Name As String = "David"
+Dim $A,$B = 5
+    'This is a comment
+    Print "My First Program"
+    IF ($A > $B) Then Print $A
+    $A = 5
+    $B = $A * 5
+    Do while($a > 5)
+        a$ = a$ + 1 
+    Loop
+
+END SUB
